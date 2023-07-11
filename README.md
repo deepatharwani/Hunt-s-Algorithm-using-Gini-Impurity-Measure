@@ -1,1 +1,3 @@
 # Hunt-s-Algorithm-using-Gini-Impurity-Measure
+
+This notebook presents the techniques to explore the ‘Car’ training datasets provided to extract knowledge from the given data and to present it visually to better understand the attributes and relationships between them. It also illustrates the method of Hunt’s algorithm to further classify the data into a decision tree using the Greedy approach and the Gini impurity measure. The method uses the training dataset to create a fully grown decision tree, which later is pruned (post - pruning) to obtain a simple model, and to avoid the issue of overfitting. In the end, the predicted values are generated using the pruned tree and the test dataset which are verified using a confusion matrix.
